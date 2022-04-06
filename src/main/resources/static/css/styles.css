@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.letraAzul
+{
+	color:#085596;
+}
+
+h1
+{
+	padding: 20px 0px 20px 0px; 
+}
+
+h2
+{
+	padding: 20px 0px 20px 0px; 
+}
+
+.formualrio
+{
+	width: 100%;
+	padding: 0px 120px 0px 120px;
+}
+
+.alerta
+{
+	color: #b54b4a;
+}
+
+.end
+{
+	text-align: end;
+}
+
+.letraVerde
+{
+	color: #4f7b43;
+}
+
+.boton
+{
+	color: white;
+	background-color: #075291;
+	font-weight: bold;
+}
